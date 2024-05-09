@@ -1,4 +1,4 @@
-name: py36
+name: ALPGM
 channels:
   - pytorch
   - conda-forge
